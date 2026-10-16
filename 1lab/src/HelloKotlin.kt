@@ -3,5 +3,5 @@ fun main() {
 }
 
 fun printHello() {
-    println("Hello Worldd")
+    println("Hello World")
 }
